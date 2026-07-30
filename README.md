@@ -1,0 +1,1 @@
+Idea Garden is a modern, mobile-friendly app for capturing and organizing ideas. Users can add descriptions and photos, sort ideas by category and progress, save favorites, search their collection, and share individual ideas or the entire collection. Colorful category artwork makes every idea visually engaging.
